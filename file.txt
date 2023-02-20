@@ -1,0 +1,64 @@
+begin_global
+    int ceva:=10;
+    int tvect[3] := ~1,2,3~;
+
+end_global
+
+begin_definitions
+
+    function char f33( int character, string character2)
+    begin_function
+        int var;
+        function void f4( int param, char params )
+        begin_function
+            int variabila;
+        end_function
+    end_function
+
+    function void f (int y, char yy)
+    begin_function
+        var:=10;
+    end_function
+    function void fctincls (int param, char param2, string param3, bool param4)
+    begin_function
+    end_function
+end_definitions
+
+
+begin_classes
+    class protected clasa1 (ggg)
+    {
+        int param;
+        char param2;
+        string param3;
+        bool param4;
+        int vector[5]:=~1,2,3,4,5~;
+        vector[4]:=10;
+
+        fctincls (param, param2, param3, param4);
+    }
+end_classes
+
+
+begin_main
+    int a;
+    int i:=0;
+    
+    if(7>6){
+        for(i:=0; i<100; i:=(i+1)){
+            bool bl:=true;
+            char ch;
+            string str:="mesaj";
+        }
+    } else
+    {
+        while (a==0) {
+            char caracter:= 'g';
+        }
+    }
+    int vector1[5]:=~1,2,3,4,5~;
+    vector1[4]:=10;
+    f(5, ch);
+    fctincls(i, ch, str, bl);
+    eval(i+(0*10+ch));
+end_main

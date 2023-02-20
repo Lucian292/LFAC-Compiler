@@ -1,0 +1,27 @@
+name: ceva , type: int , scope: global , valoare: 10 
+name: tvect[3] , type: int , scope: global , valoare: ~ 1 2 3 ~  
+name: character , type: int , scope: f33 
+name: character2 , type: string , scope: f33 
+name: var , type: int , scope: local , valoare: 10 
+name: param , type: int , scope: f4 
+name: params , type: char , scope: f4 
+name: variabila , type: int , scope: local 
+name: y , type: int , scope: f 
+name: yy , type: char , scope: f 
+name: param , type: int , scope: fctincls 
+name: param2 , type: char , scope: fctincls 
+name: param3 , type: string , scope: fctincls 
+name: param4 , type: bool , scope: fctincls 
+name: ggg , type: clasa1 , scope: clase 
+name: param , type: int , scope: clase 
+name: param2 , type: char , scope: clase 
+name: param3 , type: string , scope: clase 
+name: param4 , type: bool , scope: clase 
+name: vector[5] , type: int , scope: clase , valoare: ~ 1 2 3 4 10 ~ 
+name: a , type: int , scope: main 
+name: i , type: int , scope: main , valoare: 1 
+name: bl , type: bool , scope: main , valoare: true 
+name: ch , type: char , scope: main 
+name: str , type: string , scope: main , valoare: "mesaj" 
+name: caracter , type: char , scope: main , valoare: 'g' 
+name: vector1[5] , type: int , scope: main , valoare: ~ 1 2 3 4 10 ~ 

@@ -1,0 +1,5 @@
+name: f33 , type: char , params: int character string character2  scope: f33 
+name: f4 , type: void , params:  int param char params  scope: f4 
+name: f , type: void , params:  int y char yy  scope: f 
+name: fctincls , type: void , params:  int param char param2 string param3 bool param4  scope: fctincls 
+name: clasa1 , type: protected , params: ggg  scope: clasa1 
